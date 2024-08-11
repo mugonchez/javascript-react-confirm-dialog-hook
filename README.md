@@ -1,1 +1,1 @@
-# A reusable confirm dialog hook using Javascript.
+# A reusable confirm dialog hook using Javascript and Shadcn UI library.
